@@ -1,2 +1,2 @@
-# maxmandia.com
-Personal website repo.  
+# Flexbox-practice
+quick website. 
